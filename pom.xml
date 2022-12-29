@@ -12,6 +12,7 @@
 
     <modules>
         <module>reactor-client</module>
+        <module>mutiny-client</module>
     </modules>
 
     <properties>
